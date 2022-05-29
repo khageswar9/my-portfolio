@@ -11,7 +11,7 @@ import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
-import myresume from "../../assets/myresume.pdf";
+import myresume from "../../assets/Requird-image/myresume.pdf";
 export const About = () => {
   return (
     <>
