@@ -5,6 +5,7 @@ import Brightness2Icon from "@material-ui/icons/Brightness2";
 import WbSunnyRoundedIcon from "@material-ui/icons/WbSunnyRounded";
 import MenuIcon from "@material-ui/icons/Menu";
 import CloseIcon from "@material-ui/icons/Close";
+import myresume from "../../assets/myresume.pdf";
 
 export const Navbar = () => {
   const [{ themename, toggeltheme }] = React.useContext(ThemeContext);
@@ -71,7 +72,7 @@ export const Navbar = () => {
           </li>
           <li className="nav__list-item">
             <a
-              href="https://docs.google.com/document/d/1oN6-zmOu9hSi89DaJ1txwlSwkbLnvQuLvXHHf9mpP-k/edit?usp=sharing"
+              href={myresume}
               onClick={toggleNavList}
               className="link link--nav"
               target="_blank"

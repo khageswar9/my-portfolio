@@ -18,11 +18,12 @@ import {
 import { DiCss3 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import { IoLogoJavascript } from "react-icons/io";
-import youtube from "../../Assets/Requird-image/you.png"
-import stop from "../../Assets/Requird-image/stop.png"
-import plural from "../../Assets/Requird-image/plural.png"
-import bewakoof from "../../Assets/Requird-image/bewakoof.png"
-import unplash from "../../Assets/Requird-image/unplash.png"
+import youtube from "../../Assets/Requird-image/you.png";
+import stop from "../../Assets/Requird-image/stop.png";
+import plural from "../../Assets/Requird-image/plural.png";
+import bewakoof from "../../Assets/Requird-image/bewakoof.png";
+import unplash from "../../Assets/Requird-image/unplash.png";
+import fabbag from "../../Assets/Requird-image/fabbag.png";
 
 
 
@@ -49,12 +50,9 @@ export const Projects = () => {
               "Bewakoof.com" is a E-Commerce website for Clothes and Accessories. Built on HTML, CSS, JavaScript for front end and Localstorage on backend. It's a team project completed executed in 5 days.
               </p>
               <div>
-                <FaReact />
                 <SiHtml5 />
+                <DiCss3 />
                 <IoLogoJavascript />
-                <SiNodedotjs />
-                <SiExpress />
-                <SiMongodb />
               </div>
               <div>
                 <a
@@ -95,8 +93,9 @@ export const Projects = () => {
                 First Backend Project with NodeJS, ExpressJS and MongoDB. Used EJS to render views. Main functionalities were : Register/Login using JWT, Sorting and Filtering in the backend and many more.
               </p>
               <div>
+                <SiHtml5 />
+                <DiCss3 />
                 <IoLogoJavascript />
-                <FaReact />
                 <SiNodedotjs />
                 <SiExpress />
                 <SiMongodb />
@@ -140,9 +139,9 @@ export const Projects = () => {
                 First indivisual project Built on HTML, CSS, JavaScript for front end and youtube API for showing the videos. 
               </p>
               <div>
-                <SiNodedotjs />
-                <SiExpress />
-                <SiMongodb />
+                <SiHtml5 />
+                <DiCss3 />
+                <IoLogoJavascript />
               </div>
               <div>
                 <a
@@ -199,6 +198,51 @@ export const Projects = () => {
                 </a>
                 <a
                   href="https://github.com/khageswar9/unit-5/tree/master/day_6_googletimer"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline">
+                    View Code
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="projects_container">
+          <div className="project">
+            <div className="project_videocontainer">
+              <div data-aos="fade-right">
+                <img
+                  src={fabbag}
+                  alt="FabBag.com"
+                />
+              </div>
+            </div>
+            <div className="project_information" data-aos="fade-right">
+              <h2>FabBag.com</h2>
+              <p>
+              FabBag is a India's largest beauty subscription service. we use React and Redux for Front end and MongoDB, ExpressJs and nodejs for bakend.
+              </p>
+              <div>
+                <FaReact />
+                <DiCss3 />
+                <SiNodedotjs />
+                <SiExpress />
+                <SiMongodb />
+              </div>
+              <div>
+                <a
+                  href="https://dashing-fox-837d55.netlify.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline onbt">
+                    See this Live
+                  </span>
+                </a>
+                <a
+                  href="https://github.com/khageswar9/FabBag_clone"
                   target="_blank"
                   rel="noreferrer"
                 >

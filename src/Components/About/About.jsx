@@ -11,6 +11,7 @@ import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
+import myresume from "../../assets/myresume.pdf";
 export const About = () => {
   return (
     <>
@@ -60,7 +61,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://docs.google.com/document/d/1oN6-zmOu9hSi89DaJ1txwlSwkbLnvQuLvXHHf9mpP-k/edit?usp=sharing"
+            href={myresume}
             aria-label="github"
             className="link link--icon"
             target="_blank"
