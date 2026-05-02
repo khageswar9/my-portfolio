@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.27385620.chunk.css",
-    "main.js": "/static/js/main.76781797.chunk.js",
-    "main.js.map": "/static/js/main.76781797.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9b1da0f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9b1da0f.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.1c416138.chunk.js": "/static/js/2.1c416138.chunk.js",
-    "static/js/2.1c416138.chunk.js.map": "/static/js/2.1c416138.chunk.js.map",
+    "main.css": "/static/css/main.7f640c4b.css",
+    "main.js": "/static/js/main.4d6be112.js",
+    "static/media/unplash.png": "/static/media/unplash.90100c4156356d3f2160.png",
+    "static/media/Mypic.jpeg": "/static/media/Mypic.3dd9261520d446d9f093.jpeg",
+    "static/media/you.png": "/static/media/you.3bb1fd637d330f994435.png",
+    "static/media/bewakoof.png": "/static/media/bewakoof.7e01ff63a8bb25c0c92d.png",
+    "static/media/fabbag.png": "/static/media/fabbag.72c7101fb5b9c68c3750.png",
+    "static/media/myresume.pdf": "/static/media/myresume.a5c3dd3952c87d36c6b3.pdf",
+    "static/media/plural.png": "/static/media/plural.1836785de8e99d9f2e33.png",
+    "static/media/khageswar_ojha.pdf": "/static/media/khageswar_ojha.52997c6eca0544d7d640.pdf",
+    "static/media/stop.png": "/static/media/stop.4ec1f6258f38e162cb5b.png",
     "index.html": "/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.27385620.chunk.css.map": "/static/css/main.27385620.chunk.css.map",
-    "static/js/2.1c416138.chunk.js.LICENSE.txt": "/static/js/2.1c416138.chunk.js.LICENSE.txt",
-    "static/media/Mypic.3dd92615.jpeg": "/static/media/Mypic.3dd92615.jpeg",
-    "static/media/bewakoof.7e01ff63.png": "/static/media/bewakoof.7e01ff63.png",
-    "static/media/fabbag.72c7101f.png": "/static/media/fabbag.72c7101f.png",
-    "static/media/myresume.a5c3dd39.pdf": "/static/media/myresume.a5c3dd39.pdf",
-    "static/media/plural.1836785d.png": "/static/media/plural.1836785d.png",
-    "static/media/stop.4ec1f625.png": "/static/media/stop.4ec1f625.png",
-    "static/media/unplash.90100c41.png": "/static/media/unplash.90100c41.png",
-    "static/media/you.3bb1fd63.png": "/static/media/you.3bb1fd63.png"
+    "main.7f640c4b.css.map": "/static/css/main.7f640c4b.css.map",
+    "main.4d6be112.js.map": "/static/js/main.4d6be112.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9b1da0f.js",
-    "static/css/2.95d02a1e.chunk.css",
-    "static/js/2.1c416138.chunk.js",
-    "static/css/main.27385620.chunk.css",
-    "static/js/main.76781797.chunk.js"
+    "static/css/main.7f640c4b.css",
+    "static/js/main.4d6be112.js"
   ]
 }
